@@ -1,4 +1,4 @@
-![Logo Iberia - LIBERIES](./images/logo-iberia.png)
+/images/logo-iberia.png
 
 
 If you are already on the Discord server, the current fleet is this: A318 (9)
